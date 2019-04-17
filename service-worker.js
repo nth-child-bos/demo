@@ -19,6 +19,7 @@ importScripts(
 
 workbox.clientsClaim();
 
+
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
  * requests for URLs in the manifest.
